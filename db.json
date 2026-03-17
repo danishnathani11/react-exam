@@ -1,0 +1,59 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Spaghetti Carbonara",
+      "ingredients": "Spaghetti, Eggs, Bacon, Parmesan Cheese, Black Pepper",
+      "instructions": "Cook spaghetti according to package directions. Fry bacon until crispy. Mix eggs with parmesan. Combine hot pasta with bacon, then stir in egg mixture off heat. Season with black pepper.",
+      "category": "Italian",
+      "dietaryPreferences": "Non-Vegetarian",
+      "dateAdded": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Caesar Salad",
+      "ingredients": "Romaine Lettuce, Croutons, Parmesan Cheese, Caesar Dressing, Lemon",
+      "instructions": "Chop romaine lettuce. Toss with caesar dressing. Top with croutons and parmesan cheese. Squeeze lemon juice over top.",
+      "category": "Salad",
+      "dietaryPreferences": "Vegetarian",
+      "dateAdded": "2024-01-16T11:30:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Grilled Chicken Breast",
+      "ingredients": "Chicken Breast, Olive Oil, Garlic, Lemon, Herbs, Salt, Pepper",
+      "instructions": "Marinate chicken in olive oil, garlic, lemon, and herbs for 30 minutes. Grill on medium-high heat for 6-7 minutes per side. Season with salt and pepper.",
+      "category": "Main Course",
+      "dietaryPreferences": "Non-Vegetarian",
+      "dateAdded": "2024-01-17T14:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "title": "Vegetable Stir Fry",
+      "ingredients": "Mixed Vegetables, Soy Sauce, Ginger, Garlic, Sesame Oil, Rice",
+      "instructions": "Heat sesame oil in wok. Stir fry vegetables with garlic and ginger. Add soy sauce. Serve over steamed rice.",
+      "category": "Asian",
+      "dietaryPreferences": "Vegan",
+      "dateAdded": "2024-01-18T09:00:00.000Z"
+    },
+    {
+      "id": "6ceb",
+      "title": "dkl sdd",
+      "ingredients": "d c",
+      "instructions": ";c ",
+      "category": "Italian",
+      "dietaryPreferences": "Non-Vegetarian",
+      "dateAdded": "2026-03-15T23:27:39.561Z"
+    },
+    {
+      "id": "84f6",
+      "title": ";em ds;",
+      "ingredients": "e;a d",
+      "instructions": ";e, ecdas",
+      "category": "Italian",
+      "dietaryPreferences": "Non-Vegetarian",
+      "dateAdded": "2026-03-17T10:22:57.347Z"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
